@@ -8,7 +8,7 @@ Most of my work is in private repositories, so this page is pretty boring...
 
 ### Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bochboch28&layout=compact&hide_border=true&title_color=dee3ea&text_color=b2bdcd&bg_color=151a21&langs_count=20" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxbochi&layout=compact&hide_border=true&title_color=dee3ea&text_color=b2bdcd&bg_color=151a21&langs_count=20" />
 
   
 ---
