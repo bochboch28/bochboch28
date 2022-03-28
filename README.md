@@ -14,4 +14,5 @@ I like C# and cute things!
 ### Languages
   
 <img align="left" alt="CSHARP" width="46px" src="https://github.com/abranhe/programming-languages-logos-site/blob/master/languages/csharp.png" />
+<img align="left" alt="HTML" width="46px" src="https://github.com/abranhe/programming-languages-logos-site/blob/master/languages/html.png" />
 <br />
