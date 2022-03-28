@@ -1,7 +1,7 @@
 ### I'm bochi!
 I like C# and cute things!
 
-Most of my work is in private repositories, so this page is pretty boring!
+Most of my work is in private repositories, so this page is pretty boring...
 <br />
 
 ---
