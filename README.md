@@ -6,5 +6,10 @@ I like C# and cute things!
 
 ### Languages
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miapolis&layout=compact&hide_border=true&title_color=dee3ea&text_color=b2bdcd&bg_color=151a21&langs_count=20" />
+<img src="https://github-readme-stats.vercel.app/api?username=miapolis&hide_border=true&show_icons=true&title_color=dee3ea&icon_color=419d78&text_color=b2bdcd&bg_color=151a21" />
+  
+  
 <img align="left" alt="CSHARP" width="46px" src="https://github.com/abranhe/programming-languages-logos-site/blob/master/languages/csharp.png" />
 <br />
