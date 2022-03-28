@@ -8,7 +8,6 @@ I like C# and cute things!
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bochboch28&layout=compact&hide_border=true&title_color=dee3ea&text_color=b2bdcd&bg_color=151a21&langs_count=20" />
-<img src="https://github-readme-stats.vercel.app/api?username=bochboch28&hide_border=true&show_icons=true&title_color=dee3ea&icon_color=419d78&text_color=b2bdcd&bg_color=151a21" />
   <br />
   
 ---
