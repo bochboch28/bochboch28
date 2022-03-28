@@ -6,7 +6,6 @@ I like C# and cute things!
 
 ### Stats
 
-<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bochboch28&layout=compact&hide_border=true&title_color=dee3ea&text_color=b2bdcd&bg_color=151a21&langs_count=20" />
   <br />
   
