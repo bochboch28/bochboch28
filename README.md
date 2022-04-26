@@ -15,6 +15,7 @@ Most of my work is in private repositories, so this page is pretty boring...
   
 ### Languages
   
-<img align="left" alt="CSHARP" width="46px" src="https://github.com/abranhe/programming-languages-logos-site/blob/master/languages/csharp.png" />
-<img align="left" alt="HTML" width="46px" src="https://github.com/abranhe/programming-languages-logos-site/blob/master/languages/html.png" />
+<img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" />
+<img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" />
+<img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" />
 <br />
