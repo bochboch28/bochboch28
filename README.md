@@ -8,7 +8,7 @@ Most of my work is in private repositories, so this page is pretty boring...
 
 ### Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxbochi&layout=compact&hide_border=true&title_color=dee3ea&text_color=b2bdcd&bg_color=151a21&langs_count=20" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxbochi)](https://github.com/anuraghazra/github-readme-stats)
 
   
 ---
