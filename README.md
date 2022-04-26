@@ -14,7 +14,7 @@ Most of my work is in private repositories, so this page is pretty boring...
 ---
   
 ### Languages
-<p align="center">
+<p align="left">
 <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" />
 <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" />
 <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" />
