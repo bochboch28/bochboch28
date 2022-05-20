@@ -1,5 +1,5 @@
 ### bochi
-I like C# and c++ 
+I like c# and c++ and am primarily focused on reverse engineering
 
 Most of my work is in private repositories, so this page is pretty boring
 <br />
