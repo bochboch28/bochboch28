@@ -1,5 +1,5 @@
 ### bochi
-I like c# and c++ and am primarily focused on reverse engineering
+I program primarily in c++, and I spend most of my time reverse engineering games
 
 Most of my work is in private repositories, so this page is pretty boring
 <br />
