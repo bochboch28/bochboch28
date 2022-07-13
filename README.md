@@ -1,8 +1,7 @@
 ### bochi
-I program primarily in c++, and I spend most of my time reverse engineering games
+focused on c++ and reverse engineering
 
-Most of my work is in private repositories, so this page is pretty boring
-<br />
+- learning php
 
 ---
 
