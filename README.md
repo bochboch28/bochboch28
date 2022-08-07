@@ -1,7 +1,7 @@
 ### bochi
 focused on c++ and reverse engineering
 
-- learning php
+- learning kernel
 
 ---
 
