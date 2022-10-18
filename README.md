@@ -1,7 +1,5 @@
 ### bochi
-focused on c++ and reverse engineering
-
-- learning kernel
+c / c++ focused, kernel developer :)
 
 ---
 
